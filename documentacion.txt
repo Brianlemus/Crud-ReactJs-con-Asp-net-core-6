@@ -1,0 +1,25 @@
+mantenimiento de vehiculos
+
+insertar, consultar y modificar vehiculos.
+
+mvc
+
+sservicio rest (solucion aparte).
+base de datos se deben usar procedimientos almacenados.
+
+servicio rest. no se puede se va a la base de datos.
+
+---
+mvc que consuma un rest para ejecutar procedimientos almacenados.
+
+No de placa.
+Marca
+Linea
+Modelo
+Tipo (sedan, Camionta).
+color 
+
+()
+ 
+
+proyecto completo en carpeta pruebaCrud

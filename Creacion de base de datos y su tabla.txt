@@ -1,0 +1,11 @@
+use DBCANELLA;
+
+create table Vehiculo(
+idRegistro int primary key identity(1,1),
+noPlaca varchar(100),
+marca varchar(100),
+linea varchar(100),
+modelo varchar(100),
+tipo varchar(100),
+color varchar(100)
+)
